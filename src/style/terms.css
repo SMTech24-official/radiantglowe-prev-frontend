@@ -1,0 +1,20 @@
+.terms-content ol {
+  list-style-type: decimal;
+  list-style-position: inside;
+  margin-bottom: 1rem;
+}
+
+.terms-content ul {
+  list-style-type: disc;
+  list-style-position: inside;
+  margin-bottom: 1rem;
+}
+
+.terms-content ol.ml-6,
+.terms-content ul.ml-6 {
+  margin-left: 1.5rem;
+}
+
+.terms-content li {
+  margin-bottom: 0.5rem;
+}
